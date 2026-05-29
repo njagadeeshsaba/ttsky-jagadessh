@@ -2,7 +2,7 @@
 # Bootcamp IC Design & Fabrication — IEEE OpenSilicon / IEEE CASS UTP 2026
 # Shuttle: SKY26a  |  PDK: sky130A  |
 
-project:  ..
+project: 
   title:       "IEEE 7-bit ALU - Serial Input / Parallel Output"
   author:      "jagadeesh"
   discord:     "jagadeesh_g230"
@@ -27,7 +27,7 @@ project:  ..
     - "serial_alu_ctrl.v"
     - "tt_um_alu7b.v"
 
-# Pin map — all fields must be present (do not add or remove pins)
+# Pin map — all fields must be present (do not add or remove pins).
 pinout:
 
   # Dedicated inputs
