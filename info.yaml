@@ -4,8 +4,8 @@
 
 project:
   title:       "IEEE 7-bit ALU - Serial Input / Parallel Output"
-  author:      "Sharif Obando"
-  discord:     "sharif_g230"
+  author:      "jagadeesh"
+  discord:     "jagadeesh_g230"
   description: >
     7-bit ALU with LSB-first serial input and 8-bit parallel output.
     Supports ADD, AND, OR, XOR and SUB. Protocol: 7 bits operand A + 7 bits
