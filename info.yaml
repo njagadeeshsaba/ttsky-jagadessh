@@ -2,7 +2,7 @@
 # Bootcamp IC Design & Fabrication — IEEE OpenSilicon / IEEE CASS UTP 2026
 # Shuttle: SKY26a  |  PDK: sky130A  |
 
-project:
+project:  ..
   title:       "IEEE 7-bit ALU - Serial Input / Parallel Output"
   author:      "jagadeesh"
   discord:     "jagadeesh_g230"
